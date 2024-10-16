@@ -1,4 +1,4 @@
-# Task - TAFE (Selenium) - Automation Practice
+# Task - Selenium - Automation Practice
 
 ---
 ## Grupo:
