@@ -3,9 +3,6 @@
 ---
 ## Grupo:
 - Pedro Arruda
-- Rafael Isidro
-- Tiago Souto
-
 ---
 ## Objetivos da task:
 - Praticar comandos Selenium
@@ -40,18 +37,13 @@ cd <NOME_DO_REPOSITORIO>
 ---
 ## Dependências:
 
-- Selenium
+- SeleniumGrid
 - Lombok
 - Datafaker
-- JUnit
+- TestNG
 - Jackson Datatype
 - Allure Reports
-
----
-## Documentação - DOCS (_Test Cases_):
-
-### - [Link do documento](https://docs.google.com/document/d/11Rqyxdi92HBFxt8-MMZIZwCje8caHk_pE5d2vt02TxE/edit)
-
+  
 ---
 ## Checklist de validação:
 Para cada Test Case realizado no site acima, seguimos o seguinte fluxo:
@@ -62,4 +54,3 @@ Para cada Test Case realizado no site acima, seguimos o seguinte fluxo:
 - [X] Organizamos o código
 
 ---
-_Vem Ser QA - DBC - 14ª Edição_
