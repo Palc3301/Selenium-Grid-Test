@@ -1,0 +1,22 @@
+<suite name="ParallelTests" parallel="tests" thread-count="15">
+    <test name="ChromeTests">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="org.selenium.task_automation_practice.test.HomeTest" />
+        </classes>
+    </test>
+
+    <test name="FirefoxTests">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="org.selenium.task_automation_practice.test.HomeTest" />
+        </classes>
+    </test>
+
+    <test name="EdgeTests">
+        <parameter name="browser" value="MicrosoftEdge" />
+        <classes>
+            <class name="org.selenium.task_automation_practice.test.HomeTest" />
+        </classes>
+    </test>
+</suite>
